@@ -1,0 +1,79 @@
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Login Screen WinForm.exe.config
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Login Screen WinForm.exe
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Login Screen WinForm.pdb
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\obj\Debug\Login Screen WinForm.csproj.AssemblyReference.cache
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\obj\Debug\Login Screen WinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\obj\Debug\Login_Screen_WinForm.Form1.resources
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\obj\Debug\Login_Screen_WinForm.Properties.Resources.resources
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\obj\Debug\Login Screen WinForm.csproj.GenerateResource.cache
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\obj\Debug\Login Screen WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\obj\Debug\Login Screen WinForm.exe
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\obj\Debug\Login Screen WinForm.pdb
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Azure.Core.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Azure.Identity.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Buffers.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Memory.Data.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Memory.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Security.Permissions.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Text.Json.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.ValueTuple.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Azure.Core.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Azure.Identity.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Buffers.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Memory.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Memory.Data.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Security.Permissions.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Text.Json.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\System.ValueTuple.xml
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Mohamed Hassan\source\repos\Login Screen WinForm\Login Screen WinForm\obj\Debug\Login Screen WinForm.csproj.CopyComplete
