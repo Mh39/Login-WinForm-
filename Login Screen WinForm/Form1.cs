@@ -53,11 +53,11 @@ namespace Login_Screen_WinForm
                 try
                 {
                     SqlConnection conn = new SqlConnection(@"Server = LAPTOP-JFIAGS6G\SQLEXPRESS ; Database = LoginForm ; Integrated Security = SSPI ; TrustServerCertificate = True");
+                    string sql = "select TRIM( Password) Password ,TRIM(Active) Active from tbl_login where TRIM(upper (Username))= upper (@usename)";
 
-                    SqlCommand cmd = new SqlCommand("select * from tbl_login where upper (Username)= upper (@usename) and Password=@Password;", conn);
-                    conn.Open();
-                    cmd.Parameters.AddWithValue("@usename", textBox1.Text);
-                    cmd.Parameters.AddWithValue("@Password", textBox2.Text);
+                    SqlCommand cmd = new SqlCommand(sql, conn);
+                    // conn.Open();
+                    cmd.Parameters.AddWithValue("usename", textBox1.Text);
                     SqlDataAdapter da = new SqlDataAdapter(cmd);
                     DataTable dt = new DataTable();
                     da.Fill(dt);
@@ -67,23 +67,40 @@ namespace Login_Screen_WinForm
 
                     if (dt.Rows.Count > 0)
                     {
-                        string Active_User = dt.Rows[0]["Active"].ToString().TrimStart();
+                        string passward_db = dt.Rows[0]["Password"].ToString();
 
-                        if (Active_User == "Yes                                               ")
+                        string Active_User = dt.Rows[0]["Active"].ToString();
+
+                        if (passward_db == textBox2.Text.Trim())
                         {
+                            if (Active_User == "Yes")
+                            {
+                                MessageBox.Show("Login Successful");
+                                return;
 
-                            MessageBox.Show("Login Successful");
+                            }
+                            else
+                            {
+                                MessageBox.Show("user is inacteve");
+                                return;
+
+                            }
+
+
                         }
                         else
                         {
-                            MessageBox.Show("invalid");
+                            MessageBox.Show("invalid Password");
+                            return;
 
                         }
+
+
 
                     }
                     else
                     {
-                        MessageBox.Show("useName or password is invalid");
+                        MessageBox.Show("user dosnt exist");
 
                     }
 
